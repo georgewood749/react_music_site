@@ -27,7 +27,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "react-scripts start",
     "dev": "webpack serve --mode development --config config/webpack.config.dev.js",
-    "build": "webpack --config config/webpack.config.production.js"
+    "build": "webpack --config config/webpack.config.production.js",
+    "webpack": "webpack"
   },
   "repository": {
     "type": "git",
